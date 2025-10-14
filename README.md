@@ -74,11 +74,13 @@ python lung_cancer_detection.py
 
 ---
 
-## 📌 Notes
+## 📌 Data Set
 
-- Prototype trained on a small set (45 training, 5 validation)
-- Performance can improve with more data and tuning
-- Not for medical use without proper validation
+Have taken 50 patients as a sample dataset for training and validation. Link is available below:
+
+Sample Dataset Images: https://qnm8.sharepoint.com/:f:/g/Ep5GUq573mVHnE3PJavB738Bevue4plkiXyNkYfxHI-a-A?e=UVMWne
+
+Sample Dataset CSV for above images: CSV File
 
 ---
 
