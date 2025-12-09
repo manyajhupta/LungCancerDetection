@@ -26,7 +26,7 @@ lung-cancer-detection/
 │   └── <Patient_ID>/
 │       └── *.dcm
 ├── stage1_labels.csv
-├── imageDataNew-10-10-5.npy 
+├── imageDataNew-10-10-5.npy (generated)
 ├── lung_cancer_detection.py
 ├── requirements.txt
 ├── LICENSE
@@ -53,7 +53,6 @@ cd lung-cancer-detection
 ```bash
 pip install -r requirements.txt
 ```
-
 
 ---
 
