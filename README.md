@@ -26,7 +26,7 @@ lung-cancer-detection/
 │   └── <Patient_ID>/
 │       └── *.dcm
 ├── stage1_labels.csv
-├── imageDataNew-10-10-5.npy (generated)
+├── imageDataNew-10-10-5.npy 
 ├── lung_cancer_detection.py
 ├── requirements.txt
 ├── LICENSE
@@ -54,7 +54,6 @@ cd lung-cancer-detection
 pip install -r requirements.txt
 ```
 
-> ✅ This project now uses **TensorFlow 2.x** with modern Keras API for better performance and compatibility.
 
 ---
 
@@ -166,7 +165,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Original concept and implementation by Priyansh Shah
 - Updated to modern TensorFlow 2.x framework
 - Dataset sourced from medical imaging research
 
